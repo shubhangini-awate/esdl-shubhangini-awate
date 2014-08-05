@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+void add(int,int);
+
 int main()
 {
 cout<<"hello world"<<endl;
